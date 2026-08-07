@@ -22,6 +22,176 @@ TZOFFSETTO:+0000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751EBF23-2026-W41-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261005T100000
+DTEND;TZID=Europe/London:20261005T110000
+CATEGORIES:1078
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1078/202526">Skills for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 100<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1078: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751EBF23-2026-W43-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261019T140000
+DTEND;TZID=Europe/London:20261019T150000
+CATEGORIES:1078
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1078/202526">Skills for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 100<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1078: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751EBF23-2026-W47-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261116T140000
+DTEND;TZID=Europe/London:20261116T150000
+CATEGORIES:1078
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1078/202526">Skills for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 100<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1078: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751EBF23-2026-W48-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261123T140000
+DTEND;TZID=Europe/London:20261123T150000
+CATEGORIES:1078
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1078/202526">Skills for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 100<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1078: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751EBF23-2026-W49-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261130T140000
+DTEND;TZID=Europe/London:20261130T150000
+CATEGORIES:1078
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1078/202526">Skills for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 100<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1078: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A33-2026-W44-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261027T130000
+DTEND;TZID=Europe/London:20261027T140000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A39-2026-W44-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261030T090000
+DTEND;TZID=Europe/London:20261030T110000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A33-2026-W46-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261110T130000
+DTEND;TZID=Europe/London:20261110T140000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A39-2026-W46-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261113T090000
+DTEND;TZID=Europe/London:20261113T110000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A33-2026-W47-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261117T130000
+DTEND;TZID=Europe/London:20261117T140000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A39-2026-W47-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261120T090000
+DTEND;TZID=Europe/London:20261120T110000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A33-2026-W48-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261124T130000
+DTEND;TZID=Europe/London:20261124T140000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A39-2026-W48-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261127T090000
+DTEND;TZID=Europe/London:20261127T110000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A33-2026-W49-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261201T130000
+DTEND;TZID=Europe/London:20261201T140000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A39-2026-W49-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261204T090000
+DTEND;TZID=Europe/London:20261204T110000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A33-2026-W50-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261208T130000
+DTEND;TZID=Europe/London:20261208T140000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B2175200A39-2026-W50-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261211T090000
+DTEND;TZID=Europe/London:20261211T110000
+CATEGORIES:1720
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/1720/202526">Programming and Data Science<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 50<br>Module Credits: 20<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE1720: Practical
+END:VEVENT
+BEGIN:VEVENT
 UID:202526!5216C608F8794D77F15FA9D195AD73F3-2026-W05-1@mytimetable.leeds.ac.uk
 DTSTART;TZID=Europe/London:20260129T090000
 DTEND;TZID=Europe/London:20260129T110000
@@ -40,6 +210,116 @@ X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.lee
 DTSTAMP:11111111T111111Z
 LOCATION:SEE Advanced Computing Lab (9.156)
 SUMMARY:SOEE2550: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W04-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270129T140000
+DTEND;TZID=Europe/London:20270129T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W05-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270205T140000
+DTEND;TZID=Europe/London:20270205T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W06-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270212T140000
+DTEND;TZID=Europe/London:20270212T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W07-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270219T140000
+DTEND;TZID=Europe/London:20270219T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W08-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270226T140000
+DTEND;TZID=Europe/London:20270226T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W09-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270305T140000
+DTEND;TZID=Europe/London:20270305T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W10-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270312T140000
+DTEND;TZID=Europe/London:20270312T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W11-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270319T140000
+DTEND;TZID=Europe/London:20270319T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W16-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270423T140000
+DTEND;TZID=Europe/London:20270423T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W17-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270430T140000
+DTEND;TZID=Europe/London:20270430T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!5D76AB46716F6AE4244E387B0144A4E9-2027-W18-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270507T140000
+DTEND;TZID=Europe/London:20270507T160000
+CATEGORIES:2650
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2650/202526">GIS for Geoscientists<\a> <br>Staff: Clare Gordon<br>Location url: None<br>Module Size: 96<br>Module Credits: 10<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE2650: Practical
 END:VEVENT
 BEGIN:VEVENT
 UID:202526!5216C608F8794D77F15FA9D195AD49C5-2026-W05-1@mytimetable.leeds.ac.uk
@@ -489,6 +769,146 @@ CATEGORIES:5245
 X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 20 April at 10:39</i></body></html>
 DTSTAMP:11111111T111111Z
 LOCATION:SEE Advanced Computing Lab (9.156)
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAFA3-2027-W05-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270205T130000
+DTEND;TZID=Europe/London:20270205T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter, Dr Richard Collier<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAF95-2027-W06-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270211T130000
+DTEND;TZID=Europe/London:20270211T140000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAF9D-2027-W06-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270211T140000
+DTEND;TZID=Europe/London:20270211T160000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AEF1F9B005DF2E5D56C6FA7671012C2E-2027-W06-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270212T120000
+DTEND;TZID=Europe/London:20270212T130000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAFA3-2027-W06-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270212T130000
+DTEND;TZID=Europe/London:20270212T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter, Dr Richard Collier<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAF95-2027-W07-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270218T130000
+DTEND;TZID=Europe/London:20270218T140000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAF9D-2027-W07-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270218T140000
+DTEND;TZID=Europe/London:20270218T160000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAFA3-2027-W07-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270219T130000
+DTEND;TZID=Europe/London:20270219T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter, Dr Richard Collier<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAFA1-2027-W08-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270225T140000
+DTEND;TZID=Europe/London:20270225T170000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AEF1F9B005DF2E5D56C6FA7671012C34-2027-W08-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270226T130000
+DTEND;TZID=Europe/London:20270226T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Dr Charlotte Botter, Dr Richard Collier<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAF9F-2027-W09-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270304T130000
+DTEND;TZID=Europe/London:20270304T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AEF1F9B005DF2E5D56C6FA7671012C34-2027-W09-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270305T130000
+DTEND;TZID=Europe/London:20270305T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Dr Charlotte Botter, Dr Richard Collier<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AECF29AAE3D6233AD5D55B21751FAF9F-2027-W10-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270311T130000
+DTEND;TZID=Europe/London:20270311T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Ben Craven, Dr Charlotte Botter<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
+SUMMARY:SOEE5245M: Lecture
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!AEF1F9B005DF2E5D56C6FA7671012C34-2027-W10-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20270312T130000
+DTEND;TZID=Europe/London:20270312T150000
+CATEGORIES:5245
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/TP/SOEE/5245M/202526">Seismic Data Interpretation<\a> <br>Staff: Dr Charlotte Botter, Dr Richard Collier<br>Location url: None<br>Module Size: 40<br>Module Credits: 15<br><hr><br><i>Generated: 07 August at 14:57</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:
 SUMMARY:SOEE5245M: Practical
 END:VEVENT
 END:VCALENDAR
