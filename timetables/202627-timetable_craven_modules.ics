@@ -242,6 +242,56 @@ LOCATION:West Teaching Lab Cluster (B.16)
 SUMMARY:SOEE1720: Practical
 END:VEVENT
 BEGIN:VEVENT
+UID:202627!B1581DDDC7439EAD5267271884C47EA3-2026-W41-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261008T100000
+DTEND;TZID=Europe/London:20261008T120000
+CATEGORIES:2970
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2970/202627">Advanced Skills for Environmental Geoscientists<\a> <br>Staff: None<br>Location url: None<br>Module Size: 60<br>Module Credits: 20<br><hr><br><i>Generated: 22 September at 10:46</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:SEE Advanced Computing Lab (9.156)
+SUMMARY:SOEE2970: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!B1581DDDC7439EAD5267271884C47EA3-2026-W43-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261022T100000
+DTEND;TZID=Europe/London:20261022T120000
+CATEGORIES:2970
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2970/202627">Advanced Skills for Environmental Geoscientists<\a> <br>Staff: None<br>Location url: None<br>Module Size: 60<br>Module Credits: 20<br><hr><br><i>Generated: 22 September at 10:46</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:SEE Advanced Computing Lab (9.156)
+SUMMARY:SOEE2970: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!B1581DDDC7439EAD5267271884C47EA3-2026-W46-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261112T100000
+DTEND;TZID=Europe/London:20261112T120000
+CATEGORIES:2970
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2970/202627">Advanced Skills for Environmental Geoscientists<\a> <br>Staff: None<br>Location url: None<br>Module Size: 60<br>Module Credits: 20<br><hr><br><i>Generated: 22 September at 10:46</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:SEE Advanced Computing Lab (9.156)
+SUMMARY:SOEE2970: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!B1581DDDC7439EAD5267271884C47EA3-2026-W47-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261119T100000
+DTEND;TZID=Europe/London:20261119T120000
+CATEGORIES:2970
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2970/202627">Advanced Skills for Environmental Geoscientists<\a> <br>Staff: None<br>Location url: None<br>Module Size: 60<br>Module Credits: 20<br><hr><br><i>Generated: 22 September at 10:46</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:SEE Advanced Computing Lab (9.156)
+SUMMARY:SOEE2970: Practical
+END:VEVENT
+BEGIN:VEVENT
+UID:202627!B1581DDDC7439EAD5267271884C47EA3-2026-W48-1@mytimetable.leeds.ac.uk
+DTSTART;TZID=Europe/London:20261126T100000
+DTEND;TZID=Europe/London:20261126T120000
+CATEGORIES:2970
+X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/2970/202627">Advanced Skills for Environmental Geoscientists<\a> <br>Staff: None<br>Location url: None<br>Module Size: 60<br>Module Credits: 20<br><hr><br><i>Generated: 22 September at 10:46</i></body></html>
+DTSTAMP:11111111T111111Z
+LOCATION:SEE Advanced Computing Lab (9.156)
+SUMMARY:SOEE2970: Practical
+END:VEVENT
+BEGIN:VEVENT
 UID:202627!AECF29AAE3D6233AD5D55B21751F4921-2027-W04-1@mytimetable.leeds.ac.uk
 DTSTART;TZID=Europe/London:20270125T150000
 DTEND;TZID=Europe/London:20270125T160000
