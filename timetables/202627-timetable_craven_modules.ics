@@ -622,26 +622,6 @@ LOCATION:EC Stoner Cluster (6.68)
 SUMMARY:SOEE2650: Practical
 END:VEVENT
 BEGIN:VEVENT
-UID:202627!AECF29AAE3D6233AD5D55B21751ED6ED-2026-W40-1@mytimetable.leeds.ac.uk
-DTSTART;TZID=Europe/London:20260928T140000
-DTEND;TZID=Europe/London:20260928T150000
-CATEGORIES:3073
-X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/3073/202627">Independent Field Projects (GS)<\a> <br>Staff: Dr Graham McLeod<br>Location url: http://students.leeds.ac.uk/buildings-and-rooms/4193/roger-stevens-lt-16-12-16<br>Module Size: 75<br>Module Credits: 40<br><hr><br><i>Generated: 24 September at 11:12</i></body></html>
-DTSTAMP:11111111T111111Z
-LOCATION:Roger Stevens LT 16 (12.16) (Collaborative)
-SUMMARY:SOEE3073: Lecture
-END:VEVENT
-BEGIN:VEVENT
-UID:202627!BBF456D842904B4E0BBD13B991AB5C85-2026-W40-1@mytimetable.leeds.ac.uk
-DTSTART;TZID=Europe/London:20260930T130000
-DTEND;TZID=Europe/London:20260930T140000
-CATEGORIES:3073
-X-ALT-DESC;FMTTYPE=text/html: <html><body>Module: <a href="https://catalogue.leeds.ac.uk/Module/UG/SOEE/3073/202627">Independent Field Projects (GS)<\a> <br>Staff: Dr David Ferguson<br>Location url: http://students.leeds.ac.uk/buildings-and-rooms/4193/roger-stevens-lt-16-12-16<br>Module Size: 75<br>Module Credits: 40<br><hr><br><i>Generated: 24 September at 11:12</i></body></html>
-DTSTAMP:11111111T111111Z
-LOCATION:Roger Stevens LT 16 (12.16) (Collaborative)
-SUMMARY:SOEE3073: Lecture
-END:VEVENT
-BEGIN:VEVENT
 UID:202627!AECF29AAE3D6233AD5D55B21751F8F09-2026-W42-1@mytimetable.leeds.ac.uk
 DTSTART;TZID=Europe/London:20261014T140000
 DTEND;TZID=Europe/London:20261014T150000
